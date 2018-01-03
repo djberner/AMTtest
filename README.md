@@ -1,4 +1,4 @@
 # AMTtest
 test for training
 Finally
-conflict2
+conflict test
